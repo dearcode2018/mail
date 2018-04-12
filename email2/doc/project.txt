@@ -1,0 +1,45 @@
+【项目信息】
+项目名称 : mail
+中文名称 : 邮件系统
+项目版本 : version 1.0
+
+主要技术 : 邮件发送/传输/接受; text / html 邮件
+
+项目描述 : 
+
+项目备注 : 通过 apache commons email 提供的框架支持.
+
+commons email 对 java mail 进行了再次封装，因此部分依赖 javamail的支持.
+
+【项目规划】
+
+Email --> SimpleEmail
+         --> MultiPartEmail --> HtmlEmail --> ImageHtmlEmail
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
